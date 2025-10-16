@@ -1,5 +1,5 @@
 📦 Projeto Estoque Mercado
-Este projeto foi desenvolvido como parte de uma atividade acadêmica proposta pelos professores, em colaboração com minha equipe. O objetivo foi criar um sistema de controle de estoque para um mercado, utilizando tecnologias web.
+Este projeto foi desenvolvido como parte de uma atividade acadêmica proposta pelo senai, em colaboração com minha equipe. O objetivo foi criar um sistema de controle de estoque para um mercado, utilizando tecnologias web.
 
 👨‍💻 Minha contribuição
 Participação no design da interface do sistema
